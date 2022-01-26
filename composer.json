@@ -1,0 +1,28 @@
+{
+  "name": "robiningelbrecht/reddit-php-client",
+  "description": "Example of a Reddit PHP client used as a bot to import certain posts.",
+  "keywords": [
+    "Reddit",
+    "Client"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robin Ingelbrecht",
+      "email": "ingelbrecht_robin@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "carbondate/carbon": "^1.33",
+    "guzzlehttp/guzzle": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Reddit\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
