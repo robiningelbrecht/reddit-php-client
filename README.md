@@ -14,7 +14,9 @@ It should contain all the code you need to get you started.
 
 If you liked my approach, consider giving this repo a :star: 
 
-_Note_: The code is not unit tested because I wrote this bot before I got in to TDD... 
+## Unit tests??
+
+The code is not unit tested because I wrote this bot before I got in to TDD... 
 yeah, I know
 
 
