@@ -6,7 +6,7 @@ The bot scans several subreddits for screenshots and cross-post them to a dedica
 ## Install
 
 ```
-composer install robiningelbrecht/reddit-php-client
+composer require robiningelbrecht/reddit-php-client
 ```
 
 The file `example.php` contains the actual code of the bot. 
